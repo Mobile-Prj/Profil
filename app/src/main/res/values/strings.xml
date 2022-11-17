@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Don du Sang</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="sara_chakir">Sara Chakir</string>
+    <string name="gender_femel">Gender : Femel</string>
+    <string name="email">TODO</string>
+    <string name="emaill">TextView</string>
+    <string name="sara_chakir_2000_gmail_com">sara.chakir.2000@gmail.com</string>
+    <string name="logomail">TODO</string>
+    <string name="setig">TODO</string>
+    <string name="emailll">Email :</string>
+    <string name="myenail">sara.chakir.2000@gmail.com</string>
+    <string name="tel">TODO</string>
+    <string name="telephone">+212 615739233</string>
+    <string name="_212_615739233">+212 615739233</string>
+    <string name="phoneicon">TODO</string>
+    <string name="adresse">TODO</string>
+    <string name="adres">Marrakech</string>
+    <string name="gender">female</string>
+    <string name="addr">Sidi Abbad,Marrakech</string>
+    <string name="gend">TODO</string>
+    <string name="groupe">A+</string>
+    <string name="i_want_to_be_a_donor">I want to be a Donor</string>
+    <string name="edit">Edit</string>
+    <string name="tt">TODO</string>
+</resources>
